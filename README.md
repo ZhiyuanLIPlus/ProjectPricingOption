@@ -1,2 +1,2 @@
 # ProjectPricingOption
-Project for my GF,basically nothing interesting here.
+Project for my GF,so basically nothing interesting here.
